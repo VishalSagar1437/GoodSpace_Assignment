@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/GoodSpace_Assignment/static/css/main.7e65a7c2.css",
+    "main.js": "/GoodSpace_Assignment/static/js/main.fecf1c49.js",
+    "static/js/453.0a36081d.chunk.js": "/GoodSpace_Assignment/static/js/453.0a36081d.chunk.js",
+    "index.html": "/GoodSpace_Assignment/index.html",
+    "main.7e65a7c2.css.map": "/GoodSpace_Assignment/static/css/main.7e65a7c2.css.map",
+    "main.fecf1c49.js.map": "/GoodSpace_Assignment/static/js/main.fecf1c49.js.map",
+    "453.0a36081d.chunk.js.map": "/GoodSpace_Assignment/static/js/453.0a36081d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7e65a7c2.css",
+    "static/js/main.fecf1c49.js"
+  ]
+}
